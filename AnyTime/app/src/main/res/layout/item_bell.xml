@@ -13,8 +13,10 @@
         android:ellipsize="end"
         android:gravity="center_vertical"
         android:paddingLeft="15dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
         android:text="TextView"
-        android:textSize="16sp">
+        android:textSize="16sp" />
 
 
 
